@@ -1,3 +1,4 @@
 pandas
 clickhouse-connect
 pyodbc
+mysql-connector-python
